@@ -1,0 +1,16 @@
+D:\temp\CheckArchive\CheckArchive\bin\Debug\CheckArchive.exe.config
+D:\temp\CheckArchive\CheckArchive\bin\Debug\CheckArchive.exe
+D:\temp\CheckArchive\CheckArchive\bin\Debug\CheckArchive.pdb
+D:\temp\CheckArchive\CheckArchive\obj\Debug\CheckArchive.csprojAssemblyReference.cache
+D:\temp\CheckArchive\CheckArchive\obj\Debug\CheckArchive.exe
+D:\temp\CheckArchive\CheckArchive\obj\Debug\CheckArchive.pdb
+D:\temp\CheckArchive\CheckArchive\bin\Debug\NUnrar.dll
+D:\temp\CheckArchive\CheckArchive\obj\Debug\CheckArchive.csproj.CopyComplete
+D:\WorkFolder\Проверка архива\CheckArchive\CheckArchive\bin\Debug\CheckArchive.exe.config
+D:\WorkFolder\Проверка архива\CheckArchive\CheckArchive\bin\Debug\CheckArchive.exe
+D:\WorkFolder\Проверка архива\CheckArchive\CheckArchive\bin\Debug\CheckArchive.pdb
+D:\WorkFolder\Проверка архива\CheckArchive\CheckArchive\bin\Debug\NUnrar.dll
+D:\WorkFolder\Проверка архива\CheckArchive\CheckArchive\obj\Debug\CheckArchive.csproj.CopyComplete
+D:\WorkFolder\Проверка архива\CheckArchive\CheckArchive\obj\Debug\CheckArchive.exe
+D:\WorkFolder\Проверка архива\CheckArchive\CheckArchive\obj\Debug\CheckArchive.pdb
+D:\WorkFolder\Проверка архива\CheckArchive\CheckArchive\obj\Debug\CheckArchive.csprojAssemblyReference.cache
